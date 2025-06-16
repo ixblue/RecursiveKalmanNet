@@ -10,7 +10,7 @@ We introduce **Recursive KalmanNet (RKN)**, a Kalman filter-informed recurrent n
   <a href="https://arxiv.org/abs/2506.11639">*Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification*</a>, EUSIPCO 2025.
 
 - C. Falcon, H. Mortada, M. Clavaud, and J.-P. Michel,
-  <a href="" title="To be available soon">*Recursive KalmanNet : Analyse des capacités de généralisation d’unréseau de neurones récurrent guidé par un filtre de Kalman*</a>, GRETSI 2025.
+  <a href="" title="To be available soon">*Recursive KalmanNet : Analyse des capacités de généralisation d’un réseau de neurones récurrent guidé par un filtre de Kalman*</a>, GRETSI 2025.
 
 ## Python Version and Dependencies
 
@@ -18,13 +18,14 @@ This project was developed and tested using **Python 3.12.8**.
 
 Using the exact same version is not strictly necessary. You can check your Python version with:
 
-
 > python --version
 
-To create a compatible environment and install all required dependencies:
+To create an environment
 
-> python3.12 -m venv venv  
-> source venv/bin/activate  # On Windows use: venv\Scripts\activate
+> python -m venv venv  
+> venv\Scripts\activate     # On Mac, use: source venv/bin/activate  
+
+To install all required dependencies, from the RecursiveKalmanNet folder:
 
 > pip install -r requirements.txt
 
