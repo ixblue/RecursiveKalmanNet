@@ -7,10 +7,10 @@ We introduce **Recursive KalmanNet (RKN)**, a Kalman filter-informed recurrent n
 ### Publications
 
 - H. Mortada, C. Falcon, Y. Kahil, M. Clavaud, and J.-P. Michel,
-  <a href="" title="To be available soon">*Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification*</a>, EUSIPCO 2025.
+  <a href="https://arxiv.org/abs/2506.11639">*Recursive KalmanNet: Deep Learning-Augmented Kalman Filtering for State Estimation with Consistent Uncertainty Quantification*</a>, EUSIPCO 2025.
 
 - C. Falcon, H. Mortada, M. Clavaud, and J.-P. Michel,
-  <a href="" title="To be available soon">*Recursive KalmanNet: An Analysis of the Generalization Capabilities of a Recurrent Neural Network Guided by a Kalman Filter*</a>, GRETSI 2025.
+  <a href="" title="To be available soon">*Recursive KalmanNet : Analyse des capacités de généralisation d’unréseau de neurones récurrent guidé par un filtre de Kalman*</a>, GRETSI 2025.
 
 ## Python Version and Dependencies
 
