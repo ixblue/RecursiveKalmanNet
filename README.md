@@ -37,6 +37,7 @@ To install all required dependencies, from the RecursiveKalmanNet folder:
     - `.results/loss_curves/`: Saves loss curve values during training and validation.
     - `.results/plot_saves/`: Folder that can be specified to save generated plots.
 - `Algo/`: Includes class definitions for dynamical systems, the Kalman filter, the Recursive KalmanNet, and loss functions.
+- `Material/`: Contains presentation supports for the Recursive KalmanNet.
 - `Tools/`: Provides utility functions for data generation and plotting.
 
 ## Entry point
